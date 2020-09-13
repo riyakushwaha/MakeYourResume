@@ -1,0 +1,97 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;  
+    margin: 0 ;
+    background: rgb(182, 135, 48);
+    padding: 5% 15%;
+}
+
+
+/*--------------------------- Title Section */
+
+
+.grid-container
+{
+    display:grid;
+    grid-template-columns: 30% auto;
+    padding: 8% ;
+    grid-gap: 5% 5%;
+   border: 8px solid black;
+     
+}
+
+.grid-container > div
+{
+    display: inline-block;
+}
+
+.item1
+{
+    position: relative;
+}
+
+
+h1{
+margin-top: 1%;
+}
+
+.header{
+    border: 3px solid  rgb(117, 117, 216);   
+    margin:0;
+    height: 0;
+    background: rgb(117, 117, 216);   
+}
+
+.mypic
+{
+    float: right;
+    border-radius: 100%;
+    width: 60%;
+    border: 3px solid rgb(117, 117, 216);    
+    
+
+}
+.box
+{
+
+    width: auto;
+
+    background: black;
+}
+
+.item3, .item5{
+    text-align: right;
+}
+
+p{
+    text-align: justify;
+}
+
+.default
+{
+    border: 3px solid black;
+    margin:0;
+    height: 0;
+    background: black;
+}
+
+.social-icon
+{
+    color: black;
+    margin: 15px;
+    
+}
+
+ul{
+    list-style-type:none;
+}
+
+.item2, .item4, .item6
+{
+text-align: left;
+}
+
+.item5{
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
