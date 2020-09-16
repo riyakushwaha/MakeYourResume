@@ -74,14 +74,15 @@
                     <li>Kotlin</li>
                     <li>GitHub</li>
                   </ul>
-
+<br>
                   <h3>HOBBIES<hr class="default"></h3>
                 <ul>
-                    <li>Reading</li>
+                    
                     <li>CSS Illustrations</li>
                     <li>Hand Lettering</li>
+                    <li>Reading</li>
                     <li>Coding</li>
-                    <li>Volunteering</li>
+                
                   </ul>
 
                                   
